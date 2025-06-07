@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Shiva
 - 👀 I’m interested in AI ,ML,Data science
 - 🌱 I’m currently learning B.Tech 3rd year
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : you can reach me through linekidin (www.linkedin.com/in/shiva-teja-sharma-43612736a)
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I will be always learning
 
 <!---
 Shiva04260/Shiva04260 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
