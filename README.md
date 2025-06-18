@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning B.Tech 3rd year
 - 📫 How to reach me : you can reach me through linekidin (www.linkedin.com/in/shiva-teja-sharma-43612736a)
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: I will be always learning
+- ⚡ Fun fact: I love to code 48hrs a day
 
 <!---
 Shiva04260/Shiva04260 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
